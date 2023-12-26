@@ -8,7 +8,7 @@
 ███████╗╚██████╔╝██████╔╝░░░██║░░░╚█████╔╝╚█████╔╝  ░░░░░░  ██║░╚═╝░██║██████╔╝
 ╚══════╝░╚═════╝░╚═════╝░░░░╚═╝░░░░╚════╝░░╚════╝░  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
-
+u
 
 Project Name : ZUSYCO - MD
 Creator : @darkmakerofc , @mr-nima-x 
@@ -48,7 +48,7 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : false ,
+     ALL_MESSAGES : true ,
      ONLY_COMMANDS : false,
      STATUS : true,
   },
