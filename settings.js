@@ -11,7 +11,7 @@
 u
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @mr-GOST-x 
 
 */
 
@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94723178742,94773283124",
   OWNER_NAME: "『 GOST 』",
   BOT_NAME : "GOST BOT ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "GOST-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
