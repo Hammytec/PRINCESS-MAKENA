@@ -18,7 +18,7 @@ Creator : @Piyush , @Swagata
 module.exports = {
   OWNER_NUMBER: "8777033301",
   SUDO_NUMBERS : "8777033301",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NAME: "『 Cyber_Piyush8
   BOT_NAME : "ＺＵＳＹＣＯ-AI",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
