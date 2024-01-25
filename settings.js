@@ -10,7 +10,7 @@
 
 
 
-Project Name : ZUSYCO - MD
+Project Name : DEVIL - MD
 Creator : @darkmakerofc , @devil-king-x 
 
 */
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ DEVIL KING',
   STICKER_PACK : '[ Devilking ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -48,7 +48,7 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
@@ -64,7 +64,7 @@ module.exports = {
     "ok" : "https://telegra.ph/file/59f4877332406b12327dc.mp4",
     "ping" : "https://telegra.ph/file/d531945fb5385140c12fd.mp4",
     "bot" : "https://telegra.ph/file/5666f3ee8c10a3eca3f68.mp4",
-    "thanks " : "https://telegra.ph/file/53dd7ea35b07dc860654f.mp4",
+    "thanks" : "https://telegra.ph/file/53dd7ea35b07dc860654f.mp4",
     "animel" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-animel.mp3",
     "bitch" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bitch.mp3",
     "bro" : "https://telegra.ph/file/264af2abea80d846053d3.mp4",
