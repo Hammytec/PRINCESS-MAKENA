@@ -43,7 +43,7 @@ module.exports = {
   ANTI_LINK : true,
   ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
-  MOROCCO_NUMBERS : {1,2,3
+  MOROCCO_NUMBERS : {
         BLOCK : true,
         NOT_WORKING : false,
   },
