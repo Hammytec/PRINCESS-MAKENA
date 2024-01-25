@@ -10,8 +10,8 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : 𝐑 𝐂 𝐃  - 𝐌 𝐃
+Creator : @darkmakerofc , @𝐑-𝐂𝐡𝐚𝐧𝐮𝐤𝐚-𝐃𝐢𝐥𝐬𝐡𝐚𝐧
 
 */
 
