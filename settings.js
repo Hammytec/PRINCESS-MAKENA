@@ -11,13 +11,13 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @devil-king-x 
 
 */
 
 module.exports = {
   OWNER_NUMBER: "923014283429",
-  SUDO_NUMBERS : "94715166712,94719574492",
+  SUDO_NUMBERS : "923014283429,923107058820",
   OWNER_NAME: "『 Devil king 』",
   BOT_NAME : "Devilking",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -56,18 +56,18 @@ module.exports = {
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
-  AUTO_BGM : false,
+  AUTO_BGM : true,
   BGM : {
-    "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
-    "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
-    "tance" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-tance0.mp3",
-    "romant" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-floot.mp3",
-    "serio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-serio.mp3",
+    "alive" : "https://telegra.ph/file/708a9dc69a1d7e2d72f29.mp4",
+    "menu" : "https://telegra.ph/file/461337a8a42d59c86bdaf.mp4",
+    "hi" : "https://telegra.ph/file/df78f6769397685e649f6.mp4",
+    "ok" : "https://telegra.ph/file/59f4877332406b12327dc.mp4",
+    "ping" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-serio.mp3",
     "chill" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-wichil.mp3",
     "yaka" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-yaka.mp3",
     "animel" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-animel.mp3",
     "bitch" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bitch.mp3",
-    "papa" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
+    "bro" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
     "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
