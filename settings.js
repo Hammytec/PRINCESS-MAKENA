@@ -57,7 +57,7 @@ module.exports = {
   AUTO_REACT : true,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : true,
-  BGM : {
+  BGM : {🥹🤗🌝😂💔🤍😏
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
     "tance" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-tance0.mp3",
