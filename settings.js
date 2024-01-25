@@ -30,7 +30,7 @@ module.exports = {
         WELCOME_MESSAGE : false,
         GOODBYE_MESSAGE : false
     },
-  DESABLE_WELCOME_GOODBYE_JIDS : [🤗],
+  DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "true",
