@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @𝐑-𝐂𝐡𝐚𝐧𝐮𝐤𝐚-𝐃𝐢𝐥𝐬�
 */
 
 module.exports = {
-  OWNER_NUMBER: "94783378753",
-  SUDO_NUMBERS : "94783378753",
-  OWNER_NAME: "『 𝐑.𝐂𝐡𝐚𝐧𝐮𝐤𝐚_𝐃𝐢𝐥𝐬𝐡𝐚𝐧 』",
-  BOT_NAME : "𝐑 𝐂 𝐃",
+  OWNER_NUMBER: "94759099943",
+  SUDO_NUMBERS : "94759099943",
+  OWNER_NAME: "『 𝗵𝗶𝗺𝗮𝗹_𝗯𝗵𝗮𝗻𝘂𝗸𝗮 』",
+  BOT_NAME : "𝗯𝗵𝗮𝗻𝘂𝗸𝗮",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
