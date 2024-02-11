@@ -1,12 +1,12 @@
 {
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
+    "name": "ROMEK-MD",
+    "description": "This is an ROMEK-MD whatsapp bot created by mr faiz.",
     "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
-    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+    "logo": "https://telegra.ph/file/8a2f06c281d2f3b0c7037.png",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp ROMEK-MD Bot"
     ],
     "buildpacks": [
         {
