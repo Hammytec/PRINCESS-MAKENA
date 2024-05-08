@@ -78,7 +78,17 @@ module.exports = {
     "echcharayi" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-echcharayi.mp3",
     "gahanawa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gahanawa.mp3",
     "gm" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gm.mp3",
-  
+    "goodnight" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-goodnight.mp3",
+    "gullimata" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gullimata.mp3",
+    "hello" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-hello.mp3",
+    "helo" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-helo.mp3",
+    "hii" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-hii.mp3",
+    "httpp" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-httpp.mp3",
+    "humnawa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-humnawa.mp3",
+    "ilove" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-ilove.mp3",
+    "kota" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-kota.mp3",
+    "lightawa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-lightawa.mp3",
+    
   },
   AUTO_STICKER : false,
   STICKERS : {
