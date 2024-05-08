@@ -88,7 +88,18 @@ module.exports = {
     "ilove" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-ilove.mp3",
     "kota" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-kota.mp3",
     "lightawa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-lightawa.mp3",
-    
+    "mk" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-mk.mp3",
+    "modaya" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-modaya.mp3",
+    "my" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-my.mp3",
+    "palayan" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-palayan.mp3",
+    "pukadenepa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-pukadenepa.mp3",
+    "pukasududa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-pukasududa.mp3",
+    "putha" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-putha.mp3",
+    "sorry" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sorry.mp3",
+    "srilanka" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-srilanka.mp3",
+    "ubeda" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-ubeda.mp3",
+    "wow" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-wow.mp3",
+  
   },
   AUTO_STICKER : false,
   STICKERS : {
