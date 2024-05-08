@@ -70,6 +70,15 @@ module.exports = {
     "papa" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
     "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
+    "aaa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-aaa.mp3",
+    "ado" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-ado.mp3",
+    "appachchi" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-appachchi.mp3",
+    "bye" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bye.mp3",
+    "denawa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-denawa.mp3",
+    "echcharayi" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-echcharayi.mp3",
+    "gahanawa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gahanawa.mp3",
+    "gm" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gm.mp3",
+  
   },
   AUTO_STICKER : false,
   STICKERS : {
