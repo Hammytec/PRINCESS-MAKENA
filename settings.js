@@ -70,7 +70,6 @@ module.exports = {
     "papa" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
     "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
-    "aaa" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-aaa.mp3",
     "ado" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-ado.mp3",
     "appachchi" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-appachchi.mp3",
     "bye" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bye.mp3",
