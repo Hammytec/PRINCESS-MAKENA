@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94702224131",
+  OWNER_NUMBER: "94703365788",
   SUDO_NUMBERS : "94760007746,94715346004",
-  OWNER_NAME: "ᴍʀ-ᴋᴀꜱᴜɴ",
+  OWNER_NAME: "ᴍʀ-ꜱᴜᴅᴅʜᴀ",
   BOT_NAME : "*ᴢᴜꜱʏᴄᴏ ᴍᴅ*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -52,7 +52,7 @@ module.exports = {
      ONLY_COMMANDS : true,
      STATUS : true,
   },
-  BOT_OFFLINE : true,
+  BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🧑‍💻',
