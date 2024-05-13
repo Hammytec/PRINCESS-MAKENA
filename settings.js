@@ -48,13 +48,13 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : true,
      STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '❤️‍🩹',
   AUTO_BGM : true,
   BGM : {
