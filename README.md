@@ -11,8 +11,8 @@
 </div>
 <div align= "left">
 
-  ### Frok ZUSYCO-MD Repository
-<a href="https://github.com/Nethmikakaushalyaherath/BOSS---MD/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="NIMA" border="2" width="155" height="46" ></a>
+  ### Frok BOSS-MD Repository
+<a href="https://github.com/Nethmikakaushalyaherath/BOSS---MD/fork">
   ### Link Bot To Your Whatsapp.
   
 <a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
