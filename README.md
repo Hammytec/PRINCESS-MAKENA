@@ -13,6 +13,10 @@
   <h1>ＢＯＳＳ-ＭＤ</h1>
 
   
+`BOSS-MD` whatsapp bot is,
+
+      BOSS-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  BOSS-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+  
 ***Click [FORK](https://github.com/Nethmikakaushalyaherath/Nethmikakaushalyaherath/fork)***
   
   ### Link Bot To Your Whatsapp.
