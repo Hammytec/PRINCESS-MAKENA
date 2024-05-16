@@ -12,15 +12,6 @@
   <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="500" height="500"/>
   <h1>ＢＯＳＳ-ＭＤ</h1>
 
-<a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
-<br>
-<a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/darkmakerofc?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/ZUSYCO-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/ZUSYCO-MD?color=yellow&style=flat-square"></a>
-<br><br>
-</div>
-<div align= "left">
-
   
 ***Click [FORK](https://github.com/Nethmikakaushalyaherath/Nethmikakaushalyaherath/fork)***
   
