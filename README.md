@@ -1,5 +1,5 @@
 <div align="center" class= "main"> 
-  <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="300" height="300"/>
+  <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="600" height="600"/>
   <h1>ＢＯＳＳ-ＭＤ</h1>
 
 <a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
