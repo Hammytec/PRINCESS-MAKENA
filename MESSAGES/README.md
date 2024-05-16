@@ -5,4 +5,4 @@
 [`GOODBYE MESSAGE`](/MESSAGES/GOODBYE_MESSAGE.txt)<br><br>
 
 
-[`Go Back`](/README.md)
+
