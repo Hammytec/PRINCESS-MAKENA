@@ -9,7 +9,7 @@
 </p> 
 
 <div align="center" class= "main"> 
-  <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="500" height="500"/>
+  <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="300" height="300"/>
   <h1>ＢＯＳＳ-ＭＤ</h1>
 
   
@@ -22,7 +22,7 @@
 <a href="https://replit.com/@MRNima/ZUSYCO-PAIR-CODE?v=1"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
   #### Upload QR File
-  <i>Upload Your **ZUSYCO-QR.nima** File </i>
+  <i>Upload Your **BOSS-QR.netha** File </i>
 
   ### DEPLOY USING YOUR HOST
   
@@ -45,15 +45,32 @@
 <a href="https://replit.com/@MRNima/ZUSYCO-MD?v=1"><img src="https://i.ibb.co/YNwCMsp/zusyco-replit-template-btn.png" alt="--NIMA" border="2" width="170" height="46" ></a>
 
 <br><br>
-#### Youtube Video PlayList
-<a href="https://www.youtube.com/playlist?list=PLZ2z7lRgfHwgwfNRLBKDYZkEgd34yc1xi"><img src="https://i.ibb.co/NZ9D5Tz/youtube-playlist-zusyco.jpg" alt="--NIMA" border="2" width="300" height="165" ></a>
-<br>
 
-</div>
 
-<br><br>
-#### Join Telegram Support Group.
-<a href="https://t.me/+_IJSxrsUMD5lYTU1"><img src="https://i.ibb.co/Kj3Knpk/TG-SUPPORT-REPO-LOW-NIMA.png" alt="TG-SUPPORT-REPO-LOW-NIMA" border="2" width="145" height="46" ></a>
-<br><br><br><br><br><br><br><br><br><br>
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaexBKX4SpkOBf4W5H1g" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
-# Author : [@MrNima](https://github.com/darkmakerofc)
+
+### Contact My Main Owner
+ <p align="center">
+
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94704227534?text=Hey_Netha_🔥" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center"> 
+</h2>
+
+***`My team member 01.Mr.Savidu`***
+
+***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+
+<!---
+Nethmikakaushalyaherath/Nethmikakaushalyaherath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
