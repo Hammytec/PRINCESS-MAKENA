@@ -69,7 +69,14 @@
 <h2 align="center"> 
 </h2>
 
-***`My team member 01.Mr.Savidu`***
+***`team member`***
+`01.Mr netha ofc`
+`02.Mr savindu`
+`03.Mr`
+
+
+
+
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
 
