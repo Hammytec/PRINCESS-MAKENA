@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94757074277",
+  OWNER_NUMBER: "94741066434",
   SUDO_NUMBERS : "94760007746,94715346004",
-  OWNER_NAME: "*`ᴍʀ-ɴɪᴍꜱᴀʀᴀ`*",
+  OWNER_NAME: "*`ᴍʀ-ʟᴀʜɪʀᴜ`*",
   BOT_NAME : "*ᴢᴜꜱʏᴄᴏ ᴍᴅ*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -79,7 +79,6 @@ module.exports = {
     "gm" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gm.mp3",
     "goodnight" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-goodnight.mp3",
     "gullimata" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-gullimata.mp3",
-    "hello" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-hello.mp3",
     "helo" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-helo.mp3",
     "hii" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-hii.mp3",
     "httpp" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-httpp.mp3",
