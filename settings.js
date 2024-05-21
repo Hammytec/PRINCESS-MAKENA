@@ -97,7 +97,8 @@ module.exports = {
     "srilanka" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-srilanka.mp3",
     "ubeda" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-ubeda.mp3",
     "wow" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-wow.mp3",
-  
+    "cariya" : "https://github.com/botsel1/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-cariya.mp3",
+    
   },
   AUTO_STICKER : false,
   STICKERS : {
