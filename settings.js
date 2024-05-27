@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94762047784",
-  SUDO_NUMBERS : "94760007746,94715346004",
-  OWNER_NAME: "*`ᴍʀ-ʀᴜꜱʜ`*",
+  OWNER_NUMBEt94713953099",
+  SUDO_NUMBERS : "94760007746",
+  OWNER_NAME: "*`ɴᴇᴛʜᴜ ᴍᴜɴᴀꜱɪɴɢʜᴇ 💞`*",
   BOT_NAME : "*ᴢᴜꜱʏᴄᴏ ᴍᴅ*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -54,8 +54,8 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
-  OWNER_REACT : '❤️‍🩹',
+  AUTO_REACT : true,
+  OWNER_REACT : '🤍',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
