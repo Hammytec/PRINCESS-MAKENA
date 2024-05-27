@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBEt94713953099",
+  OWNER_NUMBER : "94713953099",
   SUDO_NUMBERS : "94760007746",
   OWNER_NAME: "*`ɴᴇᴛʜᴜ ᴍᴜɴᴀꜱɪɴɢʜᴇ 💞`*",
   BOT_NAME : "*ᴢᴜꜱʏᴄᴏ ᴍᴅ*",
@@ -50,9 +50,9 @@ module.exports = {
   READ : {
      ALL_MESSAGES : false,
      ONLY_COMMANDS : true,
-     STATUS : true,
+     STATUS : false,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
   OWNER_REACT : '🤍',
