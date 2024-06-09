@@ -1,26 +1,17 @@
 /*
 
 
-███████╗██╗░░░██╗░██████╗██╗░░░██╗░█████╗░░█████╗░  ░░░░░░  ███╗░░░███╗██████╗░
-╚════██║██║░░░██║██╔════╝╚██╗░██╔╝██╔══██╗██╔══██╗  ░░░░░░  ████╗░████║██╔══██╗
-░░███╔═╝██║░░░██║╚█████╗░░╚████╔╝░██║░░╚═╝██║░░██║  █████╗  ██╔████╔██║██║░░██║
-██╔══╝░░██║░░░██║░╚═══██╗░░╚██╔╝░░██║░░██╗██║░░██║  ╚════╝  ██║╚██╔╝██║██║░░██║
-███████╗╚██████╔╝██████╔╝░░░██║░░░╚█████╔╝╚█████╔╝  ░░░░░░  ██║░╚═╝░██║██████╔╝
-╚══════╝░╚═════╝░╚═════╝░░░░╚═╝░░░░╚════╝░░╚════╝░  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
-
-
-
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : BOSS - MD
+Creator : @netha ofc 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NUMBER: "94704227534",
+  SUDO_NUMBERS : "94704227534,94787072548",
+  OWNER_NAME: "『 𝙼𝚁 𝙽𝙴𝚃𝙷𝙰 』",
+  BOT_NAME : "ＢＯＳＳ",
+  ZUSYCO_FILE : "BOSS-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -35,8 +26,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : ' '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɴᴇᴛʜᴍɪᴋᴀ ᴍᴅ ʙᴏᴛ'',
+  STICKER_PACK : '[ BOSS ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
